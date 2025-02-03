@@ -6,6 +6,9 @@
 - [Session AM Banco Popular - Hackathon Copilot Studio](https://1drv.ms/v/c/de4a2c31d0528d99/EW8OVx-neMNKhyOSoEcTwJoBCn91zDw7Hb3_Dxy4abeRAQ?e=SleAcd)
 - [Session PM Banco Popular - Hackathon Copilot Studio](https://1drv.ms/v/c/de4a2c31d0528d99/EbL7OqVfd8dHmlv1ATR9hgABenbXiGppGX98jp_zXFDuig?e=tInHDA)
 
+## Example Presentation
+[View the PDF](https://github.com/Copilot-Hackathon/PopularHackathon2025/blob/main/PopularHackathon2025-PresentationExamples.pdf)
+
 ## Propuesta para el Desafío Estudiantil del Banco Popular
 
 ### Introducción
